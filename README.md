@@ -13,4 +13,5 @@ Simply double click "WheelFiesta.ahk" and exit the script when you are done.
 3 - BIND
 
 1x MouseWheel Down <- left click up & left click down
+
 1x Right Shift     <- Suspend/Unsuspend Script
