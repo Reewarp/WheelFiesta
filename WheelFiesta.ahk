@@ -17,9 +17,9 @@ if GetKeyState("WheelDown","P") = 1	  ; if Scroll down than do
 Loop,1					  ;a loop
 	{
 	Click,down,left                   ;that left click down
-	sleep 22                          ;with a little delay 
+	sleep 25                          ;with a little delay 
 	Click,up,left		          ;that left click up
-	sleep 22                         ;with a little delay
+	sleep 25                         ;with a little delay
 	return    
 	}
 }
