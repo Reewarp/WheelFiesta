@@ -16,6 +16,7 @@ A little popup showing when the script is suspend or unsuspend
 + Simply double click "WheelFiesta.ahk".
 + Right shift to unsuspend the script (I made it suspended by default).
 + Wheel Down to spam left click (dual wheel possible watch the last commit for it).
++ Right shift to suspend the script.
 + Exit the script when you are done.
 
 
