@@ -41,7 +41,7 @@ Loop,1					  ;a loop
 ;}
                                  
 
-RShift::
+*RShift::
 	Suspend                           ;press Right Shift to suspend the scrip and access again to the MouseWheel normal
 	if (A_IsSuspended)		  ; If Suspend	
 	{				 
