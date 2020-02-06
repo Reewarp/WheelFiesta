@@ -18,9 +18,9 @@ Exemple :
 
 
 + Double click "WheelFiesta.ahk".
-+ Right shift to unsuspend the script (I made it suspended by default).
-+ Wheel Down to spam left click (dual wheel possible continue reading).
-+ Right shift to suspend the script.
++ Any key + Right shift to unsuspend the script (I made it suspended by default).
++ Any key + Wheel Down to spam left click (dual wheel possible continue reading).
++ Any key + Right shift to suspend the script.
 + Exit the script when you are done.
 
 
