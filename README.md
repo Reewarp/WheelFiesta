@@ -32,8 +32,8 @@ A little popup showing when the script is suspend or unsuspend
 ------------------------------------------------------------------------------------------
 4 - Wheel Down + Wheel Up 
 
-Maybe you want to make the scroll up and down to left click : 
+
 + Right click on WheelFiesta.ahk
 + Edit Script
-+ Line 27 to line 41 remove the ";"
++ Line 27 to line 41 remove the ";" at the begenning of each lines
 + Save changes
