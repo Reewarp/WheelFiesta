@@ -1,6 +1,6 @@
 # WheelFiesta <- AHK-SCRIPT 
 ------------------------------------------------------------------------------------------
-**Part 1 - PRESENTATION**
+**Part 1 - Presentation**
 
 
 Welcome ! 
@@ -14,7 +14,7 @@ Exemple :
 + Any key + Right Shift
 
 ------------------------------------------------------------------------------------------
-**Part 2 - USAGE**
+**Part 2 - Usage**
 
 
 + Double click "WheelFiesta.ahk".
@@ -26,7 +26,7 @@ Exemple :
 
 
 ------------------------------------------------------------------------------------------
-**Part 3 - BINDS**
+**Part 3 - Binds**
 
 
 + 1x MouseWheel Down <- left click 
