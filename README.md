@@ -1,6 +1,6 @@
 # WheelFiesta <- AHK-SCRIPT 
 ------------------------------------------------------------------------------------------
-**Part 1 - Presentation**
+**Presentation**
 
 
 Welcome ! 
@@ -10,23 +10,23 @@ A little popup showing up when the script is suspend or unsuspend
 
 Exemple : 
 + Any key + Wheel Down 
-+ Any key + Wheel Up (dual wheel possible watch Part 4).
++ Any key + Wheel Up (dual wheel possible continue reading).
 + Any key + Right Shift
 
 ------------------------------------------------------------------------------------------
-**Part 2 - Usage**
+**Usage**
 
 
 + Double click "WheelFiesta.ahk".
 + Right shift to unsuspend the script (I made it suspended by default).
-+ Wheel Down to spam left click (dual wheel possible watch Part 4).
++ Wheel Down to spam left click (dual wheel possible continue reading).
 + Right shift to suspend the script.
 + Exit the script when you are done.
 
 
 
 ------------------------------------------------------------------------------------------
-**Part 3 - Binds**
+**Binds**
 
 
 + 1x MouseWheel Down <- left click 
@@ -34,7 +34,7 @@ Exemple :
 + 1x Right Shift     <- Suspend/Unsuspend Script
 
 ------------------------------------------------------------------------------------------
-**Part 4 - Wheel Down + Wheel Up**
+**Wheel Down + Wheel Up**
 
 
 + Right click on WheelFiesta.ahk
@@ -42,7 +42,7 @@ Exemple :
 + Line 27 to line 41 remove the ";" at the begenning of each lines
 + Save changes
 ------------------------------------------------------------------------------------------
-**Part 5 - Just Wheel Up** 
+**Just Wheel Up** 
 
 
 + Right click on WheelFiesta.ahk
