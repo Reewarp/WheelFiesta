@@ -1,6 +1,6 @@
 # WheelFiesta <- AHK-SCRIPT 
 ------------------------------------------------------------------------------------------
-1 - PRESENTATION
+Part 1 - PRESENTATION
 
 
 Welcome ! 
@@ -13,19 +13,19 @@ Exemple :
 + Any key + Right Shift
 
 ------------------------------------------------------------------------------------------
-2 - USAGE
+Part 2 - USAGE
 
 
 + Double click "WheelFiesta.ahk".
 + Right shift to unsuspend the script (I made it suspended by default).
-+ Wheel Down to spam left click (dual wheel possible watch the last commit for it).
++ Wheel Down to spam left click (dual wheel possible watch Part 4).
 + Right shift to suspend the script.
 + Exit the script when you are done.
 
 
 
 ------------------------------------------------------------------------------------------
-3 - BIND
+Part 3 - BIND
 
 
 + 1x MouseWheel Down <- left click 
@@ -33,7 +33,7 @@ Exemple :
 + 1x Right Shift     <- Suspend/Unsuspend Script
 
 ------------------------------------------------------------------------------------------
-4 - Wheel Down + Wheel Up 
+Part 4 - Wheel Down + Wheel Up 
 
 
 + Right click on WheelFiesta.ahk
