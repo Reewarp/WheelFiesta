@@ -28,3 +28,11 @@ A little popup showing when the script is suspend or unsuspend
 + 1x MouseWheel Down <- left click 
 
 + 1x Right Shift     <- Suspend/Unsuspend Script
+
+------------------------------------------------------------------------------------------
+4 - Wheel Down + Wheel Up 
+
+Maybe you want to make the scroll up and down to left click : 
++ Right click on WheelFiesta.ahk
++ Edit Script
++ Line 27 to line 41 remove the ";"
