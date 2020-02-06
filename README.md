@@ -5,8 +5,8 @@
 
 Welcome ! 
 
-It's a litte AHK script that make the scroll down with the mousewheel left clicking each time the scroll down is used and that with whatever other key pressed and hold.
-A little popup showing when the script is suspend or unsuspend
+It's a litte AHK script replace the scroll down of the mousewheel for the left click. Each time the scroll down is used and that with whatever other key pressed and hold a left click is send.
+A little popup showing up when the script is suspend or unsuspend
 
 
 ------------------------------------------------------------------------------------------
