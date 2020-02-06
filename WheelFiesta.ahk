@@ -2,6 +2,7 @@
 ; #Warn  ; Enable warnings to assist with detecting common errors.
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
+
 Suspend
 SplashTextOn,100,30, ,Script OFF   ;Print message box
 sleep 700
@@ -23,6 +24,21 @@ Loop,1					  ;a loop
 	return    
 	}
 }
+;*WheelUp::                              ;Scroll up with your mousewheel 
+
+
+
+;if GetKeyState("WheelUp","P") = 1	  ; if Scroll up than do
+;{
+;Loop,1					  ;a loop
+;	{
+;	Click,down,left                   ;that left click down
+;	sleep 24                          ;with a little delay 
+;	Click,up,left		          ;that left click up
+;	sleep 24                         ;with a little delay
+;	return    
+;	}
+;}
                                  
 
 RShift::
@@ -40,5 +56,3 @@ RShift::
 		SplashTextOff
 	}
 	return
-
-           
