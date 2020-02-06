@@ -1,6 +1,6 @@
 # WheelFiesta <- AHK-SCRIPT 
 ------------------------------------------------------------------------------------------
-Part 1 - PRESENTATION
+**Part 1 - PRESENTATION**
 
 
 Welcome ! 
@@ -14,7 +14,7 @@ Exemple :
 + Any key + Right Shift
 
 ------------------------------------------------------------------------------------------
-Part 2 - USAGE
+**Part 2 - USAGE**
 
 
 + Double click "WheelFiesta.ahk".
@@ -26,7 +26,7 @@ Part 2 - USAGE
 
 
 ------------------------------------------------------------------------------------------
-Part 3 - BIND
+**Part 3 - BINDS**
 
 
 + 1x MouseWheel Down <- left click 
@@ -34,7 +34,7 @@ Part 3 - BIND
 + 1x Right Shift     <- Suspend/Unsuspend Script
 
 ------------------------------------------------------------------------------------------
-Part 4 - Wheel Down + Wheel Up 
+**Part 4 - Wheel Down + Wheel Up**
 
 
 + Right click on WheelFiesta.ahk
@@ -42,7 +42,7 @@ Part 4 - Wheel Down + Wheel Up
 + Line 27 to line 41 remove the ";" at the begenning of each lines
 + Save changes
 ------------------------------------------------------------------------------------------
-Part 5 - Just Wheel Up 
+**Part 5 - Just Wheel Up** 
 
 
 + Right click on WheelFiesta.ahk
