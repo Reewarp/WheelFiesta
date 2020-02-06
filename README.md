@@ -5,7 +5,7 @@
 
 Welcome ! 
 
-It's a litte AHK script that allow user to scroll down with his mousewheel to left click each time the user scroll down and that with whatever other key that the user is pressing and holding.
+It's a litte AHK script that make the scroll down with the mousewheel left clicking each time the scroll down is used and that with whatever other key pressed and hold.
 A little popup showing when the script is suspend or unsuspend
 
 
@@ -13,7 +13,7 @@ A little popup showing when the script is suspend or unsuspend
 2 - USAGE
 
 
-+ Simply double click "WheelFiesta.ahk".
++ Double click "WheelFiesta.ahk".
 + Right shift to unsuspend the script (I made it suspended by default).
 + Wheel Down to spam left click (dual wheel possible watch the last commit for it).
 + Right shift to suspend the script.
