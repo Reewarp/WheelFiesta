@@ -14,7 +14,7 @@ Exemple :
 + Any key + Right Shift
 
 ------------------------------------------------------------------------------------------
-**Usage**
+## **Usage**
 
 
 + Double click "WheelFiesta.ahk".
@@ -26,7 +26,7 @@ Exemple :
 
 
 ------------------------------------------------------------------------------------------
-**Binds**
+## **Binds**
 
 
 + 1x MouseWheel Down <- left click 
@@ -34,7 +34,7 @@ Exemple :
 + 1x Right Shift     <- Suspend/Unsuspend Script
 
 ------------------------------------------------------------------------------------------
-**Wheel Down + Wheel Up**
+## **Wheel Down + Wheel Up**
 
 
 + Right click on WheelFiesta.ahk
@@ -42,7 +42,7 @@ Exemple :
 + Line 27 to line 41 remove the ";" at the begenning of each lines
 + Save changes
 ------------------------------------------------------------------------------------------
-**Just Wheel Up** 
+## **Just Wheel Up** 
 
 
 + Right click on WheelFiesta.ahk
