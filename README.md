@@ -50,3 +50,15 @@ Exemple :
 + Line 27 to line 41 remove the ";" at the begenning of each lines
 + Line 12 to line 26 add ";" at the begenning of each lines
 + Save changes
+
+------------------------------------------------------------------------------------------
+## **Delay** 
+
+
++ Right click on WheelFiesta.ahk
++ Edit Script
++ Change value of "sleep 24" line 21 (Wheel Down)
++ Change value of "sleep 24" line 23 (Wheel Down)
++ Change value of "sleep 24" line 36 (Wheel Up)
++ Change value of "sleep 24" line 38 (Wheel Up)
++ Save changes
