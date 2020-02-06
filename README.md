@@ -10,6 +10,7 @@ A little popup showing up when the script is suspend or unsuspend
 
 Exemple : 
 + Any key + Wheel Down 
++ Any key + Wheel Up (dual wheel possible watch Part 4).
 + Any key + Right Shift
 
 ------------------------------------------------------------------------------------------
@@ -39,4 +40,13 @@ Part 4 - Wheel Down + Wheel Up
 + Right click on WheelFiesta.ahk
 + Edit Script
 + Line 27 to line 41 remove the ";" at the begenning of each lines
++ Save changes
+------------------------------------------------------------------------------------------
+Part 5 - Just Wheel Up 
+
+
++ Right click on WheelFiesta.ahk
++ Edit Script
++ Line 27 to line 41 remove the ";" at the begenning of each lines
++ Line 12 to line 26 add ";" at the begenning of each lines
 + Save changes
