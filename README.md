@@ -11,7 +11,7 @@ A little popup showing up when the script is suspend or unsuspend
 Exemple : 
 + Any key + Wheel Down 
 + Any key + Wheel Up (dual wheel possible continue reading).
-+ Any key + Right Shift
++ Any key + Right Shift (Suspend/Unsuspend)
 
 ------------------------------------------------------------------------------------------
 ## **Usage**
