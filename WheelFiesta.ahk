@@ -47,18 +47,6 @@ Loop,1					  ;a loop
 }
                                  
 
-*Space::   
-RepeatKey := !RepeatKey
-If RepeatKey 
-
-	SetTimer, SendTheKey, 100	; 
-Else
-	SetTimer, SendTheKey, Off
-Return
-
-SendTheKey:  
-SendInput {Space}
-Return
 
 
 *RShift::
